@@ -208,9 +208,11 @@ nav h1 a {
   width: 100%;
 }
 .inside #footer {
+	position: fixed;
   bottom: 0;
   position: absolute;
-  width: 50%;
+  width: 47.5%;
+	/* width: calc(50% - 65px); */
 }
 #restaurant-name {
   color: #f18200;
@@ -278,7 +280,9 @@ nav h1 a {
 #restaurant-hours td {
   color: #666;
 }
-@media (max-width: 768px) {
+
+
+@media (max-width: 1024px) {
   .inside #maincontent {
     display: flex;
     flex-wrap: wrap;
