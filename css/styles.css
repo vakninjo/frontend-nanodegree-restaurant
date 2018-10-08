@@ -281,7 +281,6 @@ nav h1 a {
   color: #666;
 }
 
-
 @media (max-width: 1024px) {
   .inside #maincontent {
     display: flex;
