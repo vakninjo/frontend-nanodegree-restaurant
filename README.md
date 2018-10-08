@@ -12,8 +12,10 @@ Restaurant review app with offline capabilities for local restaurants along with
 
 ## Resources
 
-* [YouTube](https://www.youtube.com/watch?v=BfL3pprhnms&index=3&list=WL&t=0s) - How to Setup a Basic Service Worker (with Caching) by bitsofcode.
 * [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API/Using_Service_Workers) - Using Service workers
+* [Google dev](https://developers.google.com/web/fundamentals/primers/service-workers/) - Service Workers: an Introduction by Matt Gaunt
+* [YouTube](https://www.youtube.com/watch?v=BfL3pprhnms&index=3&list=WL&t=0s) - How to Setup a Basic Service Worker (with Caching) by bitsofcode
+
 
 ## Acknowledgments
 
